@@ -1,7 +1,7 @@
-package br.com.teste.iniflex;
+package br.com.test.niv.intuitive;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+
     }
 }
